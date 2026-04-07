@@ -1,1 +1,1 @@
-Nothing needs to be added to .gitignore since only a Python source file (`github_importer.py`) was added, and there are no build artifacts, dependencies, or temporary files in the changes.
+(example_usage.py matches common Python source file pattern and is not a build artifact, dependency, or temp file)
