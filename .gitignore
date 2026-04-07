@@ -1,1 +1,1 @@
-(batch_processor.py is a source file, so no ignores needed)
+Nothing needs to be added to .gitignore since only a source file (`main.py`) was added without any build artifacts, dependencies, or temporary files.
